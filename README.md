@@ -64,5 +64,17 @@ The project defines and evaluates **exactly five research questions**:
 
 ## Figures & Tables
 
-All figures and tables are provided in **RQ-wise folders** inside:
+All figures and tables are provided in **RQ-wise folders** inside
+
+## How to Reproduce Results
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Mihir-MR/Coral-Reef-Health-Monitoring.git
+2. Navigate to the project directory
+3. Create and activate a Python environment
+4. Install dependencies:
+  pip install -r requirements.txt
+5. Open notebook.ipynb and run all cells sequentially from top to bottom
+
 
